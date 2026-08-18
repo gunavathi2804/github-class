@@ -18,5 +18,5 @@
 | tamil | 3.5.2020 |<br>
 | english | 4.5.2020 |<br>
 | physics | 5.5.2020 |<br>
-| chemistry |6.5.2020 |<br>
+| chemistry | 6.5.2020 |<br>
 
