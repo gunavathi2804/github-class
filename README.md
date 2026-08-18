@@ -19,10 +19,10 @@
 🦋
 🥀
 <br>
-[image](https://www.mydomaine.com/most-beautiful-flowers)
-   - [ ]english
-   - [x]tamil
-   - [x]maths
-   - [ ]social
+[image](https://www.mydomaine.com/most-beautiful-flowers)<br>
+   - [ ] english
+   - [x] tamil
+   - [x] maths
+   - [ ] social
 
      
