@@ -21,7 +21,7 @@
 🥀
 <br>
 [image](https://www.mydomaine.com/most-beautiful-flowers)<br>
-- [ ] engl
+- [ ] english
 - [x] maths
 - [ ] social
 
