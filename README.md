@@ -1,1 +1,1 @@
-# github-class
+#self introduction
