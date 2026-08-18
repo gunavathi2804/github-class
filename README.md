@@ -7,11 +7,11 @@
 <b>college:</b><br>
 <p>I am currently studing BSC <del>finance</del> Computer science with Datscience<br> 
 <b>Home work:</b><br>
-- [ ]Computer science<br>
-- [ x ]Tamil<br>
-- [ x ]English<br>
-- [ x ]Phycics<br>
-- [ ]Chemistry<br>
+ - [ ]Computer science<br>
+ - [ x ]Tamil<br>
+ - [ x ]English<br>
+ - [ x ]Phycics<br>
+ - [ ]Chemistry<br>
 <b>Table:</b><br> 
   
 | exam | 1.5.2020 |
