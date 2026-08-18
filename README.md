@@ -5,7 +5,7 @@
 <b>education:</b>
 <p> my name is R.Gunavathi I completed my schooling at government higher scondary school,vengapakkam<br>
 <b>college:</b><br>
-<p>I am currently studing BSC <del>finance</del>Computer science with Data science<<br> 
+<p>I am currently studing BSC <del>finance</del> Computer science with Datscience<<br> 
 <b>Home work:</b><br>
 -[ ]Computer science<br>
 -[ x ]Tamil<br>
