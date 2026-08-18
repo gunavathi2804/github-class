@@ -7,7 +7,7 @@
 <b>college:</b><br>
 <p>I am currently studing BSC <del>finance</del> Computer science with Datscience<br> 
 <b>Home work:</b><br>
- - [ ] Computer science<br>
+     -    [ ] Computer science<br>
  - [x] Tamil<br>
  - [x] English<br>
  - [x] Phycics<br>
@@ -25,3 +25,4 @@
 🥀
 <br>
 [image](https://www.mydomaine.com/most-beautiful-flowers)
+   - [ ] fgftrf5
