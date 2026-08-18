@@ -7,11 +7,6 @@
 <b>college:</b><br>
 <p>I am currently studing BSC <del>finance</del> Computer science with Datscience<br> 
 <b>Home work:</b><br>
-     -    [ ] Computer science<br>
- - [x] Tamil<br>
- - [x] English<br>
- - [x] Phycics<br>
- - [ ] Chemistry<br>
 <b>Table:</b><br> 
   
 | exam | 1.5.2020 |
@@ -25,5 +20,9 @@
 🥀
 <br>
 [image](https://www.mydomaine.com/most-beautiful-flowers)
-  
-   - [ ] hi
+   - [ ]english
+   - [x]tamil
+   - [x]maths
+   - [ ]social
+
+     
