@@ -1,1 +1,4 @@
-#self introduction
+#self introduction 
+##about my self
+### good afternoon
+<p> my name is R.Gunavathi I completed my schooling at government higher scondary school,vengapakkam .I am currently studing BSC Com</p>
