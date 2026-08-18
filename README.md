@@ -7,8 +7,8 @@
 <b>college</b><br>
 <p> I am currently studing BSC<del>Computer science with Data science</del><br> 
 <b> Home work </b><br>
-[]Computer science
-[x]Tamil
-[x]English
-[x]Phycics
-[]Chemistry
+[]Computer science<br>
+[x]Tamil<br>
+[x]English<br>
+[x]Phycics<br>
+[]Chemistry<br>
