@@ -20,9 +20,6 @@
 🦋
 🥀
 <br>
-[image](https://www.mydomaine.com/most-beautiful-flowers)<br>
-- [ ] english
-- [x] maths
-- [ ] social
+[image](https://www.mydomaine.com/most-beautiful-flowers)
 
      
