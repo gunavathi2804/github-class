@@ -12,7 +12,8 @@
 -[ x ]English<br>
 -[ x ]Phycics<br>
 -[ ]Chemistry<br>
-<b>Table:</b><br>
+<b>Table:</b><br> 
+  
 | exam | 1.5.2020 |
 | .... | .... |
 | computer science | 2.5.2020 |
